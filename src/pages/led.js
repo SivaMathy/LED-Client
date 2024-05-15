@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import On from "./assets/on.png";
-import Off from "./assets/off.png";
+import On from "../assets/on.png";
+import Off from "../assets/off.png";
 
 export default function Led() {
   const [ledStates, setLedStates] = useState(Array(5).fill(false));

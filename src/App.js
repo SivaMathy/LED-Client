@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./App.css";
-import Login from "./login";
-import Led from "./led";
-import ViewLed from "./viewLed"
+import Login from "./pages/login";
+import Led from "./pages/led";
+import ViewLed from "./pages/viewLed"
 
 function App() {
   return (
