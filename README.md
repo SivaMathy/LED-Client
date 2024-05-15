@@ -25,3 +25,7 @@ Follow these steps to set up and run the application:
 git clone https://github.com/SivaMathy/led-client.git
 cd led-client
 
+#### 2. Run the Application
+
+npm install
+npm start 
